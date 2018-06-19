@@ -111,5 +111,3 @@ in order to be able to execute
 ```
 ./filename
 ```
- 
-[DyCon Webpage](http://cmc.deusto.eus/dycon/)
