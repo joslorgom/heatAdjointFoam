@@ -1,0 +1,10 @@
+#!/bin/sh
+rm -r 0.*
+rm -r [1-9]*
+
+cp 0/u.orig 0/u
+cp 0/y.orig 0/y
+cp 0/lambda.orig 0/lambda
+
+blockMesh
+
